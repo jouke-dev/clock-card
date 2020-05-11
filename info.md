@@ -5,4 +5,4 @@
 Custom components test
 
 ### Features
-1. Basic clock
+1. Basic clock and wordclock
